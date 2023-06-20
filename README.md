@@ -10,6 +10,7 @@ O protótipo consiste em um layout de tela Home, Login, Cadastro, esqueci minha 
 # Tecnologias utilizadas
 ### Html5 <img alt="HTML image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 ### CSS3  <img alt="HTML image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### JavaScript <img alt="JavaScript image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 # Disponibilidade
 ### Web
 # Como executar o projeto
