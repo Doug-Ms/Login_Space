@@ -1,6 +1,6 @@
 # Login Space <img height="80em" src='https://github.com/Doug-Ms/Login_Space/blob/master/imagens/asteroid.png' >
 ![Static Badge](https://img.shields.io/badge/Doug-Ms?logo=github&logoColor=%23000000&labelColor=%23264de4&link=github.com%2FDoug-Ms)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8ed63a1-0d93-4082-98bb-7c63af2b366a/deploy-status)](https://app.netlify.com/sites/login-space/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f15f5b2d-78f9-4d29-beb8-a26482b27b51/deploy-status)](https://app.netlify.com/sites/login-space/deploys)
 
 ## Sobre o projeto
 
