@@ -281,5 +281,18 @@ body{
     transition: 1s;
 }
 
+.social-container{
+    color: white;
+}
+
+.social-container > img{
+    width: 2vw;
+    padding: 10px;
+}
+
+.social-container > img:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
 
 
