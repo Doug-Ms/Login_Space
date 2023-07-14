@@ -148,6 +148,11 @@ body{
     transition: 1s;
 }
 
+#g-signin2{
+    text-align: center;
+    display: inline-block;
+}
+
 /* área Sing-up */
 .left-sing-up{
     width: 50vw;
@@ -282,6 +287,7 @@ body{
 
 .social-container{
     color: white;
+    text-align: center;
 }
 
 .social-container > img{
